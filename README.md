@@ -2,7 +2,7 @@
 
 - https://www.figma.com/file/SbfOi2i4S1pIs0G6uOLPCx/shop-(Copy)?type=design&node-id=0-1&mode=design&t=HqHf7Yort2ND3o3y-0
 
-- https://github.com/vanya1254/shop-html-advance
+- https://github.com/IvanLiapkin/shop-html-advance
 
 - Так как у вас уже есть готовая вёрстка, вам необходимо перевести проект на react
 
